@@ -29,6 +29,13 @@
       "when": 1747299371501,
       "tag": "0003_crazy_electro",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1747312680178,
+      "tag": "0004_furry_shaman",
+      "breakpoints": true
     }
   ]
 }
